@@ -1,0 +1,25 @@
+.numbers{
+    display: flex;
+    justify-content: space-around;
+}
+
+.opsection{
+    margin: 30px 20%;
+}
+
+
+.operation{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.ope{
+    height: 35px;
+    width: 163px;
+}
+
+.ope :hover{
+    transition: 0.2s;
+    
+}
